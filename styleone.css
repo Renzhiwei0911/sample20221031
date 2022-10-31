@@ -1,0 +1,26 @@
+.box1{
+    width:100px;
+    height:100px;
+    background-color:red;
+    float:right;
+}
+.box2{
+    color:red;
+    background-color: blue;
+    width:100px;
+    height:100px;
+    padding:20px;
+    text-align: center;
+    text-align:inherit;
+    float:left;
+}
+.box3{
+    width:100px;
+    height:100px;
+    background-color: black;
+    color:white;
+    clear:left
+}
+h1{
+    list-style-type: circle;
+}
